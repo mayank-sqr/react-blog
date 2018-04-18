@@ -8,7 +8,7 @@ class Footer extends Component {
 				<section id="footer">
 					<Row>
 						<Col xs={12} md={12}>
-							<p>&cpoy; Copytright 2018. All rights reserved.</p>
+							<p>&cpoy; Copyright 2018. All rights reserved.</p>
 						</Col>
 					</Row>
 				</section>
